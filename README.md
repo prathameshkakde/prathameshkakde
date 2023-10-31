@@ -24,7 +24,7 @@ Experienced and motivated software developer with a passion for technology and a
 
 I'm passionate about leveraging technology to create innovative solutions. Let's connect and explore opportunities for collaboration!
 
-Feel free to reach out via [📧 **Email**](mailto:kakdeprathamesh860@gmail.com) or connect with me on [🐦 **Twitter** ](https://twitter.com/KakdePrathmesh).
+Feel free to reach out via [📧 **Email**](https://kakdeprathamesh860@gmail.com) or connect with me on [🐦 **Twitter** ](https://twitter.com/KakdePrathmesh).
 
 
 <!---
