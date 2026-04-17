@@ -163,13 +163,13 @@ public class Prathamesh {
 
 <br/>
 
-### 🧪 Digital Manufacturing Solutions for Pharmaceutical Production *(TCS — Present)*
+### 🧪 Digital Manufacturing Solutions for Pharmaceutical Production
 - Designed & implemented MES solutions to automate and optimize pharma manufacturing workflows, reducing downtime and enhancing production efficiency.
 - Integrated **Tulip MES** with enterprise systems: **SAP, AWS S3, Google Workspace** for real-time operational insights.
 
 ---
 
-### 🏗️ Shopfloor Management Application for Pharmaceuticals *(TCS)*
+### 🏗️ Shopfloor Management Application for Pharmaceuticals
 - Developed a shopfloor management solution integrated with **SAP**, streamlining batch execution, reporting, and compliance tracking.
 - Automated manual workflows and implemented real-time monitoring — improving process efficiency and **GxP compliance**.
 
