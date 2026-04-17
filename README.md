@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=100&amp;section=header" width="100%"/>
 <h1>Hi there, I'm Prathamesh Kakde 👋</h1>
 <h3>Associate Software Engineer · MES & Java Specialist · Pune, India 🇮🇳</h3>
 
