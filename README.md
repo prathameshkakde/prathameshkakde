@@ -115,45 +115,15 @@ public class Prathamesh {
 
 <div align="center">
 
-| # | Project | Status | Level | Stack | Repo |
-|---|---------|--------|-------|-------|------|
-| 1 | 🎮 **Brick Breaker Game** | ✅ Completed | Beginner | Core Java · JavaFX · Event Handling | [View →](https://github.com/prathameshkakde/brick-breaker-game) |
-| 2 | 📋 **Attendance Management System** | 🔄 Ongoing | Beginner | Spring Boot · MySQL · Thymeleaf · Spring Security | [View →](https://github.com/prathameshkakde/attendance-management-system) |
-| 3 | 🎯 **Number Guessing Game** | 🔜 Upcoming | Beginner | Core Java · JavaFX · Random Class | _Coming Soon_ |
+| # | Project | Status | Level | Stack                                             | Repo |
+|---|---------|--------|-------|---------------------------------------------------|------|
+| 1 | **Brick Breaker Game** | ✅ Completed | Beginner | Core Java · JavaFX · Event Handling               | [View →](https://github.com/prathameshkakde/brick-breaker-game) |
+| 2 | **Attendance Management System** | ✅ Completed | Beginner | Spring Boot · MySQL · Thymeleaf · Spring Security | [View →](https://github.com/prathameshkakde/attendance-management-system) |
+| 3 | **Number Guessing Game** | 🔄 Ongoing | Beginner | Core Java · JavaFX · Random Class                 | [View →](https://github.com/prathameshkakde/number-guessing-game) |
+| 4 | **Tic-Tac-Toe Game** | 🔜 Upcoming | Beginner | JavaFX · 2D Arrays · Event Handling               | _Coming Soon_ |
 
 </div>
 
-<details>
-<summary><b>📌 Project Details (click to expand)</b></summary>
-
-<br/>
-
-### 🎮 Brick Breaker Game — `Completed`
-> Classic arcade game built with JavaFX. Control a paddle, bounce a ball, break all the bricks.
-
-**Key learnings:** Interactive GUIs with JavaFX · Collision detection & game loops · Event handling
-
-**Features:** Keyboard/mouse paddle control · Ball–brick collision · Score tracking · Game-over logic
-
----
-
-### 📋 Attendance Management System — `In Progress`
-> Spring Boot MVC web app for managing student/employee attendance with role-based access control.
-
-**Key learnings:** MVC with Spring Boot · CRUD via Hibernate & MySQL · Role-based auth with Spring Security
-
-**Features:** Admin & user modules · Roles (admin / student / faculty) · Full attendance CRUD
-
----
-
-### 🎯 Number Guessing Game — `Upcoming`
-> Players guess a randomly generated number within limited attempts. Simple, fun, and educational.
-
-**Key learnings:** Java `Random` class · Control structures · Basic JavaFX UI
-
-**Features:** Random number gen · "Too High / Too Low" feedback · Attempt tracking · Clean GUI
-
-</details>
 
 ---
 
