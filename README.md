@@ -121,8 +121,9 @@ public class Prathamesh {
 | 2 | **Brick Breaker Game** | ✅ Completed | Beginner | Core Java · JavaFX · Event Handling               | [View →](https://github.com/prathameshkakde/brick-breaker-game) |
 | 3 | **Attendance Management System** | ✅ Completed | Beginner | Spring Boot · MySQL · Thymeleaf · Spring Security | [View →](https://github.com/prathameshkakde/attendance-management-system) |
 | 4 | **Number Guessing Game** | ✅ Completed | Beginner | Core Java · JavaFX · Random Class                 | [View →](https://github.com/prathameshkakde/number-guessing-game) |
-| 5 | **Tic-Tac-Toe Game** | 🔄 Ongoing | Beginner | JavaFX · 2D Arrays · Event Handling               | [View →](https://github.com/prathameshkakde/tic-tac-toe) |
-| 6 | **Simple Banking Application** | 🔜 Upcoming | Beginner | Core Java · File Handling · Java Collections               | _Coming Soon_ |
+| 5 | **Tic-Tac-Toe Game** | ✅ Completed | Beginner | JavaFX · 2D Arrays · Event Handling               | [View →](https://github.com/prathameshkakde/tic-tac-toe) |
+| 6 | **Simple Banking Application** | 🔄 Ongoing | Beginner | Core Java · File Handling · Java Collections               | (https://github.com/prathameshkakde/simple-banking-application) |
+| 7 | **Library Management System** | 🔜 Upcoming | Beginner | Java (Spring Boot) · MySQL Database · Thymeleaf for Frontend               | _Coming Soon_ |
 
 </div>
 
