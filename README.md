@@ -6,7 +6,7 @@
 <h3>Associate Software Engineer · MES & Java Specialist · Pune, India 🇮🇳</h3>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9BF7&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Developer;MES+Integration+Specialist+(Tulip+%26+FTPS);GxP+%7C+Pharma+Manufacturing+Software;SAFe+Agile+Practitioner+%F0%9F%9B%A0%EF%B8%8F;3.5%2B+years+of+engineering+craft)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9BF7&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Developer;MES+Integration+Specialist+(Tulip+%26+FTPS);GxP+%7C+Pharma+Manufacturing+Software;SAFe+Agile+Practitioner+%F0%9F%9B%A0%EF%B8%8F;3.9%2B+years+of+engineering+craft)](https://git.io/typing-svg)
 
 <br/>
 
