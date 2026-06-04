@@ -26,7 +26,7 @@ public class Prathamesh {
     String role      = "Associate Software Engineer @ Rockwell Automation";
     String location  = "Pune, India 🇮🇳";
     String domain    = "Manufacturing Execution Systems (MES) | Pharma | GxP";
-    double experience = 3.5; // years
+    double experience = 3.9; // years
 
     String[] expertise = {
         "Java Backend Development",
