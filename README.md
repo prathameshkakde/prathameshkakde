@@ -115,15 +115,16 @@ public class Prathamesh {
 
 <div align="center">
 
-| # | Project | Status | Level | Stack                                             | Repo |
-|---|---------|--------|-------|---------------------------------------------------|------|
-| 1 | **Currency Calculator** | ✅ Completed | Beginner | Spring Boot · RESTful API · H2               | [View →](https://github.com/prathameshkakde/currency-converter) |
-| 2 | **Brick Breaker Game** | ✅ Completed | Beginner | Core Java · JavaFX · Event Handling               | [View →](https://github.com/prathameshkakde/brick-breaker-game) |
-| 3 | **Attendance Management System** | ✅ Completed | Beginner | Spring Boot · MySQL · Thymeleaf · Spring Security | [View →](https://github.com/prathameshkakde/attendance-management-system) |
-| 4 | **Number Guessing Game** | ✅ Completed | Beginner | Core Java · JavaFX · Random Class                 | [View →](https://github.com/prathameshkakde/number-guessing-game) |
-| 5 | **Tic-Tac-Toe Game** | ✅ Completed | Beginner | JavaFX · 2D Arrays · Event Handling               | [View →](https://github.com/prathameshkakde/tic-tac-toe) |
-| 6 | **Simple Banking Application** | 🔄 Ongoing | Beginner | Core Java · File Handling · Java Collections               | [View →](https://github.com/prathameshkakde/simple-banking-application) |
-| 7 | **Library Management System** | 🔜 Upcoming | Beginner | Java (Spring Boot) · MySQL Database · Thymeleaf for Frontend               | _Coming Soon_ |
+| # | Project | Status       | Level | Stack                                                     | Repo |
+|---|---------|--------------|-------|-----------------------------------------------------------|-----|
+| 1 | **Currency Calculator** | ✅ Completed  | Beginner | Spring Boot · RESTful API · H2                            | [View →](https://github.com/prathameshkakde/currency-converter) |
+| 2 | **Brick Breaker Game** | ✅ Completed  | Beginner | Core Java · JavaFX · Event Handling                       | [View →](https://github.com/prathameshkakde/brick-breaker-game) |
+| 3 | **Attendance Management System** | ✅ Completed  | Beginner | Spring Boot · MySQL · Thymeleaf · Spring Security         | [View →](https://github.com/prathameshkakde/attendance-management-system) |
+| 4 | **Number Guessing Game** | ✅ Completed  | Beginner | Core Java · JavaFX · Random Class                         | [View →](https://github.com/prathameshkakde/number-guessing-game) |
+| 5 | **Tic-Tac-Toe Game** | ✅ Completed  | Beginner | JavaFX · 2D Arrays · Event Handling                       | [View →](https://github.com/prathameshkakde/tic-tac-toe) |
+| 6 | **Simple Banking Application** | ✅ Completed  | Beginner | Core Java · File Handling · Java Collections              | [View →](https://github.com/prathameshkakde/simple-banking-application) |
+| 7 | **Library Management System** | 🔄 Ongoing   | Beginner | Java (Spring Boot) · MySQL Database · Thymeleaf for Frontend | [View →](https://github.com/prathameshkakde/library-management-system) |
+| 8 | **Word Counter** | 🔜 Upcoming  | Beginner | Core Java · JavaFX  | _Coming Soon_ |
 
 </div>
 
